@@ -11,5 +11,5 @@
 Пишите почту: project.nebula@inbox.ru
 Если же подгорает, ищите дискорде.
 
-### Discord [![Discord](https://img.shields.io/badge/Discord-chat-blue?style=flat&logo=discord)](https://discord.gg/9UvB5PSBYJ)
+### Discord [![Discord](https://img.shields.io/badge/Discord-chat-blue?style=flat&logo=discord)](https://discord.gg/tAGuZUUBrq)
 Если тебе удалось найти этот репозиторий или же тебя направили на него то ссылка на нашу конфу.
