@@ -1,15 +1,22 @@
-# Nebula In Space
-[![Discord](https://img.shields.io/badge/Discord-chat-blue)](https://discord.gg/9UvB5PSBYJ)
-[![license](https://img.shields.io/github/license/nebula-in-space/.github?logo=license)](https://creativecommons.org/publicdomain/zero/1.0/deed.ru)
+# Horizon
 
-**"Nebula In Space"** команда из пару человек, которые просто хотят делать игры. Энтузиасты и даже не профессионалы, а просто любители. 
+### Мы разработчики, что занимаются игрой Space Station 13
+**"Horizon"** - это небольшая команда, которая просто хочет сделать игру лучше. Энтузиасты и даже не профессионалы, а просто любители.
 Те кто если захочет, будет разбираться в том что ему интересно делать в проектах нашей небольшой, но дружной компании.
 
-Хочешь в команду, пиши мне @KOCMODECAHTHUK почему иммено ты хочешь быть тут, покажи что умеешь ибо с пустыми данными сложно как то работать. 
+> [!TIP]
+> Появилось желание вступить в нашу команду? Напиши `@kocmodecaht` почему именно ты хочешь быть тут.
+> Покажи что умеешь, ибо с пустыми данными сложно как-то работать.
 
-## Вопросы?
-Пишите почту: project.nebula@inbox.ru
-Если же подгорает, ищите дискорде.
+## Наше сообщество
 
-### Discord [![Discord](https://img.shields.io/badge/Discord-chat-blue?style=flat&logo=discord)](https://discord.gg/tAGuZUUBrq)
-Если тебе удалось найти этот репозиторий или же тебя направили на него то ссылка на нашу конфу.
+[<img src="https://i.imgur.com/lOHdByt.png" alt="Discord" width="150" align="left">](https://discord.com/invite/rxsggTJzY3)
+**Discord-сервер.**<br>Общение космонавтов. Конференция посвящённая SS13.
+
+<h2 align="center">Наши наработки</h2>
+
+### [Horizon](https://github.com/HorizonSS13/Horizon)
+[<img src="https://github.com/user-attachments/assets/35f8b897-b903-4f0b-9c81-3dcd609f3895" alt="Discord" width="150" align="left">](https://discord.com/invite/rxsggTJzY3)
+**"TG: Horizon"** является одним из игровых сообществ, созданных на базе /TG/Station и Space Station 13.<br>
+Здесь Вы способны стать частью экипажа космического корабля или быть тем, кто возглавит всех, чтобы двинуться на встречу приключениям по открытому космосу, попутно модернизируя себя и свой корабль.<br>
+Однако помните, что в космосе существует множество опасностей, начиная от агрессивной фауны и заканчивая целыми конвоями вражеских космических кораблей, которые могут превосходить ваш экипаж как числом, так и уровнем технологий.
