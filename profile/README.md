@@ -11,8 +11,8 @@ Discord-сервер <br>Общение космонавтов. Конферен
 
 <h2 align="center">Наши наработки</h2>
 
-### [Horizon](https://github.com/HorizonSS13/Horizon)
-[<img width="128" height="128" alt="hemlet_logo-v3" src="https://github.com/user-attachments/assets/7d6749d2-c3ca-472d-b81b-70aba2433210" alt="Discord" width="150" align="left">](https://discord.com/invite/rxsggTJzY3)
+### [Horizon](https://github.com/horizon-dev-team/Horizon)
+<img width="128" height="128" alt="hemlet_logo-v3" src="https://github.com/user-attachments/assets/7d6749d2-c3ca-472d-b81b-70aba2433210" alt="Discord" width="150" align="left">
 **"Horizon =][="** является одним из игровых сообществ, созданных на базе /TG/Station и Space Station 13.<br>
 Здесь Вы способны стать частью экипажа космического корабля или быть тем, кто возглавит всех, чтобы двинуться на встречу приключениям по открытому космосу, попутно модернизируя себя и свой корабль.<br>
 Однако помните, что в космосе существует множество опасностей, начиная от агрессивной фауны и заканчивая целыми конвоями вражеских космических кораблей, которые могут превосходить ваш экипаж как числом, так и уровнем технологий.
