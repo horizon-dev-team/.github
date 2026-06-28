@@ -6,7 +6,7 @@
 
 ## Наше сообщество
 
-[<img src="https://i.imgur.com/lOHdByt.png" alt="Discord" width="150" align="left">](https://discord.com/3yMmb4r9A2)
+[<img src="https://i.imgur.com/lOHdByt.png" alt="Discord" width="150" align="left">](https://discord.gg/3yMmb4r9A2)
 **Discord-сервер.**<br>Общение космонавтов. Конференция посвящённая SS13.
 
 <h2 align="center">Наши наработки</h2>
